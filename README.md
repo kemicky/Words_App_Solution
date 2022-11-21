@@ -1,11 +1,10 @@
 # Words App ~ Solution
 
-Author: Kemmy MO Jones.
-Date: Nov 21th, 2022.
-Topic: Data Persistence (PathWay 2 - Use Room For Data Persistence,Ex 5 => Preference DataStore).
+- Author: Kemmy MO Jones.
+- Date: Nov 21th, 2022.
+- Topic: Data Persistence (PathWay 2 - Use Room For Data Persistence,Ex 5 => Preference DataStore).
 
 This folder contains the source code for the Words app codelab.
-
 
 # Introduction
 Words app allows you to select a letter and use Intents to navigate to an Activity that
